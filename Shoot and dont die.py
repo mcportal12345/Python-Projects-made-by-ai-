@@ -6,7 +6,7 @@ import math
 pygame.init()
 WIDTH, HEIGHT = 1920, 1080
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Superhot Tredule Minigame")
+pygame.display.set_caption("Run and Shoot")
 
 # Colors
 WHITE = (255, 255, 255)
