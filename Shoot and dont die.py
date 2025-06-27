@@ -25,7 +25,7 @@ ENEMY_BULLET_SPEED = 4
 ENEMY_SHOOT_INTERVAL = 120  # frames
 
 clock = pygame.time.Clock()
-FPS = 60
+FPS = 100
 
 # Player class
 class Player:
